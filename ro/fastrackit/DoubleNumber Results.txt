@@ -1,0 +1,8 @@
+Is nr 123.4 a double? true
+Is nr -100.0 a double? true
+Is nr +2000 a double? false
+Is nr 0.799 a double? true
+Is nr +10.23 a double? true
+Is nr 500 a double? false
+Is nr 99. a double? false
+Is nr .287 a double? false

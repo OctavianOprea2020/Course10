@@ -1,0 +1,15 @@
+Textul initial este:
+"Mademoiselle Marjorie are mere, merisoare, mure si prune (din care face marmelade),
+dar nu are visine, nuci, portocale, mandarine si minole.
+Din mere face si multe poame, pe care mi le ofera mie, pentru ca imi plac.
+Madame Manuelle face zacusca folosind mazare, morcovi, marar, indiferent de marime.
+Ea face o munca meritorie, cantitatea de zacusca fiind mare, chiar foarte maaaaaaaaaaaaaaaaaare !!!
+Mesterul Manole munceste la manastire, iar in pauze culege fragi, afine si mure."
+
+Textul final este:
+"* * are *, *, * si prune (din care face *),
+dar nu are visine, nuci, portocale, * si *.
+Din * face si * poame, pe care mi le ofera *, pentru ca imi plac.
+* * face zacusca folosind *, morcovi, marar, indiferent de *.
+Ea face o munca *, cantitatea de zacusca fiind *, chiar foarte * !!!
+Mesterul * * la *, iar in pauze culege fragi, afine si *."
